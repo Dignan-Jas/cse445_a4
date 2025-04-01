@@ -1,0 +1,279 @@
+<Hotel>
+    <Hotel Rating = "4.2">
+        <Name>
+            Westin
+        </Name>
+        <Phone>
+            480-968-8885
+        </Phone>
+        <Phone>
+            800-937-8461
+        </Phone>
+        <Address>
+            <Number>
+                11
+            </Number>
+            <Street>
+                E. 7 St
+            </Street>
+            <City>
+                Tempe
+            </City>
+            <State>
+                AZ
+            </State>
+            <Zip>
+                85281
+            </Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating = "8.4">
+        <Name>
+            Boston Marriott Newton
+        </Name>
+        <Address NearestAirport = "Logan">
+            <Number>
+                2345
+            </Number>
+            <Street>
+                Commonwealth Ave
+            </Street>
+            <City>
+                Newton
+            </City>
+            <State>
+                MA
+            </State>
+            <Zip>
+                02466
+            </Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating = "9.4">
+        <Name>
+            citizenM Boston Back Bay
+        </Name>
+        <Phone>
+            617-861-2626
+        </Phone>
+        <Address NearestAirport = "Logan">
+            <Number>
+                408
+            </Number>
+            <Street>
+                Newbury St
+            </Street>
+            <City>
+                Boston
+            </City>
+            <State>
+                MA
+            </State>
+            <Zip>
+                02115
+            </Zip>
+    </Hotel>
+    <Hotel Rating = "7.6">
+        <Name>
+            Iris Hotel Cape Cod
+        </Name>
+        <Name>
+            Iris Hotel Cape Cod Again
+        </Name>
+        <Phone>
+            508-540-2000
+        </Phone>
+        <Address NearestAirport = "Vineyard Haven">
+            <Number>
+                291
+            </Number>
+            <Street>
+                Jones Rd
+            </Street>
+            <City>
+                Falmouth
+            </City>
+            <State>
+                MA
+            </State>
+            <Zip>
+                02540
+            </Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating = "9.2">
+        <Name>
+            Rise Uptown Hotel
+        </Name>
+        <Phone>
+            480-536-8900
+        </Phone>
+        <Address NearestAirport = "Sky Harbor">
+            <Number>
+                400
+            </Number>
+            <Street>
+                W. Camelback Rd
+            </Street>
+            <City>
+                Phoenix
+            </City>
+            <State>
+                AZ
+            </State>
+            <Zip>
+                85013
+            </Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating = "8.8">
+        <Name>
+            Aloft Phoenix Airport
+        </Name>
+        <Phone>
+            602-275-6300
+        </Phone>
+        <Address NearestAirport = "Sky Harbor">
+            <Number>
+                4450
+            </Number>
+            <Street>
+                East Washington
+            </Street>
+            <City>
+                Phoenix
+            </City>
+            <State>
+                AZ
+            </State>
+            <Zip>
+                85034
+            </Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating = "8.8">
+        <Name>
+            Hilton Phoenix Airport
+        </Name>
+        <Phone>
+            480-894-1600
+        </Phone>
+        <Address NearestAirport = "Sky Harbor">
+            <Number>
+                2435
+            </Number>
+            <Street>
+                47th St
+            </Street>
+            <City>
+                Phoenix
+            </City>
+            <State>
+                AZ
+            </State>
+            <Zip>
+                85034
+            </Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating = "9.4">
+        <Name>
+            Inn at Playa del Rey
+        </Name>
+        <Phone>
+            310-574-1920
+        </Phone>
+        <Address NearestAirport = "LAX">
+            <Number>
+                435
+            </Number>
+            <Street>
+                Culver Blvd
+            </Street>
+            <City>
+                Playa del Rey
+            </City>
+            <State>
+                CA
+            </State>
+            <Zip>
+                90293
+            </Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating = "8.6">
+        <Name>
+            Las Angeles Airport Marriott
+        </Name>
+        <Phone>
+            310-641-5700
+        </Phone>
+        <Address NearestAirport = "LAX">
+            <Number>
+                5855
+            </Number>
+            <Street>
+                W. Century Blvd
+            </Street>
+            <City>
+                Las Angeles
+            </City>
+            <State>
+                CA
+            </State>
+            <Zip>
+                90045
+            </Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating = "9.4">
+        <Name>
+            Mayumi
+        </Name>
+        <Phone>
+            310-313-0000
+        </Phone>
+        <Address NearestAirport = "LAX">
+            <Number>
+                5630
+            </Number>
+            <Street>
+                Sawtelle Blvd
+            </Street>
+            <City>
+                Culver City
+            </City>
+            <State>
+                CA
+            </State>
+            <Zip>
+                90230
+            </Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating = "9.2">
+        <Name>
+            Harborside Inn Of Boston
+        </Name>
+        <Phone>
+            617-723-7500
+        </Phone>
+        <Address NearestAirport = "Logan">
+            <Number>
+                185
+            </Number>
+            <Street>
+                State St
+            </Street>
+            <City>
+                Boston
+            </City>
+            <State>
+                MA
+            </State>
+            <Zip>
+                02109
+            </Zip>
+        </Address>
+    </Hotel>
+</Hotels>
