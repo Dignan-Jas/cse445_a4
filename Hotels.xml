@@ -1,4 +1,8 @@
-<Hotels>
+<?xml version = '1.0' encoding = 'utf-8'?>
+<Hotels xmlns="https://dignan-jas.github.io/cse445_a4/Hotels.xsd"
+ xmlns:bs="https://dignan-jas.github.io/cse445_a4/Hotels.xsd"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema"
+ xsi:schemaLocation="https://dignan-jas.github.io/cse445_a4/Hotels.xsd">
     <Hotel Rating = "4.2">
         <Name>
             Westin
