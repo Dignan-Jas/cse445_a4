@@ -1,7 +1,9 @@
 <?xml version = '1.0' encoding = 'utf-8'?>
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+ targetNamespace="https://dignan-jas.github.io/cse445_a4/Hotels.xsd"
+ xmlns:bs="https://dignan-jas.github.io/cse445_a4/Hotels.xsd"
  elementFormDefault="qualified" attributeFormDefault="unqualified">
-<xsd:element name="Address">
+<xsd:element name="Address" minOccurs="1" maxOccurs="1">
     <xsd:complexType>
         <xsd:sequence>
             <xsd:element name="Number" type="xsd:integer" minOccurs="1" maxOccurs="1"/>
@@ -13,7 +15,7 @@
         <xsd:attribute name="NearestAirport" type="xsd:string" use="required"/>
     </xsd:complexType>
 </xsd:element>
-<xsd:element name="Hotel">
+<xsd:element name="Hotel" minOccurs="1" maxOccurs="unbounded">
     <xsd:complexType>
         <xsd:sequence>
             <xsd:element name="Name" type="xsd:string" minOccurs="1" maxOccurs="1"/>
@@ -21,6 +23,13 @@
             <xsd:element name="Address" minOccurs="1" maxOccurs="unbounded"/>
         </xsd:sequence>
         <xsd:attribute name="Rating" type="xsd:string" use="optional"/>
+    </xsd:complexType>
+</xsd:element>
+<xsd:element name="Hotels">
+    <xsd:complexType>
+        <xsd:sequence>
+            <xsd:element name="Hotel" minOccurs="1" maxOccurs="unbounded"/>
+        </xsd:sequence>
     </xsd:complexType>
 </xsd:element>
 </xsd:schema>
