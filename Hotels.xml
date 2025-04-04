@@ -13,7 +13,7 @@
         <Phone>
             800-937-8461
         </Phone>
-        <Address NearestAirport = "Sky Harbor">
+        <Address NearstAirport = "Sky Harbor">
             <Number>
                 11
             </Number>
@@ -38,7 +38,7 @@
         <Phone>
             833-483-5256
         </Phone>
-        <Address NearestAirport = "Logan">
+        <Address NearstAirport = "Logan">
             <Number>
                 2345
             </Number>
@@ -63,7 +63,7 @@
         <Phone>
             617-861-2626
         </Phone>
-        <Address NearestAirport = "Logan">
+        <Address NearstAirport = "Logan">
             <Number>
                 408
             </Number>
@@ -88,7 +88,7 @@
         <Phone>
             508-540-2000
         </Phone>
-        <Address NearestAirport = "Vineyard Haven">
+        <Address NearstAirport = "Vineyard Haven">
             <Number>
                 291
             </Number>
@@ -113,7 +113,7 @@
         <Phone>
             480-536-8900
         </Phone>
-        <Address NearestAirport = "Sky Harbor">
+        <Address NearstAirport = "Sky Harbor">
             <Number>
                 400
             </Number>
@@ -138,7 +138,7 @@
         <Phone>
             602-275-6300
         </Phone>
-        <Address NearestAirport = "Sky Harbor">
+        <Address NearstAirport = "Sky Harbor">
             <Number>
                 4450
             </Number>
@@ -163,7 +163,7 @@
         <Phone>
             480-894-1600
         </Phone>
-        <Address NearestAirport = "Sky Harbor">
+        <Address NearstAirport = "Sky Harbor">
             <Number>
                 2435
             </Number>
@@ -188,7 +188,7 @@
         <Phone>
             310-574-1920
         </Phone>
-        <Address NearestAirport = "LAX">
+        <Address NearstAirport = "LAX">
             <Number>
                 435
             </Number>
@@ -213,7 +213,7 @@
         <Phone>
             310-641-5700
         </Phone>
-        <Address NearestAirport = "LAX">
+        <Address NearstAirport = "LAX">
             <Number>
                 5855
             </Number>
@@ -238,7 +238,7 @@
         <Phone>
             310-313-0000
         </Phone>
-        <Address NearestAirport = "LAX">
+        <Address NearstAirport = "LAX">
             <Number>
                 5630
             </Number>
@@ -263,7 +263,7 @@
         <Phone>
             617-723-7500
         </Phone>
-        <Address NearestAirport = "Logan">
+        <Address NearstAirport = "Logan">
             <Number>
                 185
             </Number>
